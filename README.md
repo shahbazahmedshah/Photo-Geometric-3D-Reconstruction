@@ -292,7 +292,3 @@ docs/                      data-flow diagram (draw.io) and reference manual
 - B. K. P. Horn and B. G. Schunck, "Determining optical flow," *Artificial Intelligence*, 1981.
 - C. Tomasi and T. Kanade, "Shape and motion from image streams under orthography: a factorization method," *IJCV*, 1992.
 - D. Nehab, S. Rusinkiewicz, J. Davis and R. Ramamoorthi, "Efficiently combining positions and normals for precise 3D geometry," *ACM TOG*, 2005.
-
-## Author
-
-Muhammad Areeb Iqbal, BS Electrical Engineering (Electronics), PIEAS.
